@@ -17,13 +17,22 @@ background-color: #353b48;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 22px;
 }
+.home:hover{
+    color: white;
+}
 .service{
   color: #ff793f;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+.service:hover{
+    color: white;
+}
 .Customer{
     color: #ff793f; 
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.Customer:hover{
+    color: white;
 }
 .div{
     margin-right: 60px;
