@@ -46,14 +46,7 @@ function Bike() {
         </Card.Body>
       </Card>
 
-      <Card style={{ width: '13rem' }} className='div'>
-        <Card.Img src={require('../image/bike3.jpeg')} className='images ' />
-        <Card.Body>
-          <Card.Title><b className=''>Ktm 390</b></Card.Title>
-          <Card.Text>The KTM 390 Duke is known for its impressive performance within the naked sportbike segment. It offers strong acceleration and a top speed that exceeds 100 mph, making it a spirited and fun-to-ride bike.</Card.Text>
-          <Button className='button'><b>EXPOLRE NOW</b></Button>
-        </Card.Body>
-      </Card>
+     
 
       <Card style={{ width: '13rem' }} className='div'>
         <Card.Img src={require('../image/bike4.jpeg')} className='images' />
