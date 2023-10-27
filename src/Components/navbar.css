@@ -1,0 +1,106 @@
+.navbar{
+background-color: #353b48;
+    height: 60px;
+    font-size: 20px;
+
+}
+.img{
+    width: 100px;
+    height: 100px;
+    margin-top: -40px;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+.home{
+    color: #ff793f;
+    margin-left: 90px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+}
+.service{
+  color: #ff793f;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.Customer{
+    color: #ff793f; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.div{
+    margin-right: 60px;
+    height: 100px;
+    border: none;
+
+    margin-left: 60px;
+}
+.baner{
+    margin-top: 2px;
+}
+.flex{
+    display: flex;
+
+}
+.images{
+    width: 200px;
+ 
+}
+.ktm{
+   
+    margin-top: 75px
+}
+.button{
+    background-color: #ff793f;
+    border: none;
+    
+}
+.buttonfirst{
+    background-color: #ff793f;
+    border: none;
+margin-top: 41px;
+}
+.buttonlast{
+    background-color: #ff793f;
+    border: none;
+    margin-top: 28px;
+}
+.fround{
+    opacity: 50%;
+  
+}
+.ktm{
+    color: #ff793f;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 50px;
+}
+.track{
+    font-size: 40px;
+    margin-left: 50px;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+  word-spacing: 5px;
+  letter-spacing: 3px;
+}
+.book{
+    color: black;
+    border-color: white;
+    border-radius: 10px;
+    margin-left: 50px;
+    width: 200px;
+    background-color: white;
+    
+}
+.book:hover{
+    background-color: #ff793f;
+    border-color: #ff793f;
+    color: white;
+}
+.visit{
+    color: white;
+    border-color: white;
+    border-radius: 10px;
+    margin-left: 30px;
+    width: 200px;
+}
+.visit:hover{
+    background-color: #ff793f;
+    border-color: #ff793f;
+}
+
