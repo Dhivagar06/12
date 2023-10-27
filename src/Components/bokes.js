@@ -28,9 +28,9 @@ function Bike() {
 
     <div className='flex'>
       <Card style={{ width: '13rem' }} className='div'>
-        <Card.Img src={require('../image/bike1.jpeg')} className='images ktm' />
+        <Card.Img src={require('../image/bike1.jpeg')} className='images ktmimg' />
         <Card.Body>
-          <Card.Title><b> KTM 390 ADVENTURE</b></Card.Title>
+          <Card.Title className='ktms'><b> KTM 390 ADVENTURE</b></Card.Title>
           <Card.Text>The KTM 390 Adventure offers a good balance of power and agility, making it suitable for various riding conditions. It has ample low-end torque, making it well-suited for both on-road and off-road riding.</Card.Text>
           <Button className='button'><b>EXPOLRE NOW </b></Button>
         </Card.Body>
@@ -38,9 +38,9 @@ function Bike() {
 
 
       <Card style={{ width: '13rem' }} className='div'>
-        <Card.Img src={require('../image/bike2.jpeg')} className='images ktm' />
+        <Card.Img src={require('../image/bike2.jpeg')} className='images  ktmimg' />
         <Card.Body>
-          <Card.Title><b>DUKE 390</b></Card.Title>
+          <Card.Title className='ktms'><b>DUKE 390</b></Card.Title>
           <Card.Text>The Duke 390 is powered by a liquid-cooled, single-cylinder, four-stroke engine with a displacement of 373.2cc. It's equipped with fuel injection technology and produces a substantial amount of power for its category.</Card.Text>
           <Button className='buttonfirst'><b>EXPOLRE NOW </b></Button>
         </Card.Body>
@@ -51,7 +51,7 @@ function Bike() {
         <Card.Body>
           <Card.Title><b className=''>KTM 390</b></Card.Title>
           <Card.Text>The KTM 390 Duke is known for its impressive performance within the naked sportbike segment. It offers strong acceleration and a top speed that exceeds 100 mph, making it a spirited and fun-to-ride bike.</Card.Text>
-          <Button className='button'><b>EXPOLRE NOW</b></Button>
+          <Button className='buttonthird'><b>EXPOLRE NOW</b></Button>
         </Card.Body>
       </Card>
 

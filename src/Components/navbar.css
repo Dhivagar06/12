@@ -43,9 +43,12 @@ background-color: #353b48;
     width: 200px;
  
 }
-.ktm{
+.ktms{
    
-    margin-top: 75px
+    margin-top: 50px
+}
+.ktmimg{
+    margin-top: 50px;
 }
 .button{
     background-color: #ff793f;
@@ -57,10 +60,15 @@ background-color: #353b48;
     border: none;
 margin-top: 41px;
 }
+.buttonthird{
+    background-color: #ff793f;
+    border: none;
+    margin-top: 25px;
+}
 .buttonlast{
     background-color: #ff793f;
     border: none;
-    margin-top: 28px;
+    margin-top: 49px;
 }
 .fround{
     opacity: 50%;
