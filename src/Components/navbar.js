@@ -15,10 +15,10 @@ function BasicExample() {
       <img src={require('../image/ktm.jpeg')} className='img' />
       </Nav.Item>
       <Nav.Item>
-        <Nav.Link href="/home" className='home'>Home</Nav.Link>
+        <Nav.Link href="home" className='home'>Home</Nav.Link>
       </Nav.Item>
       <Nav.Item>
-        <Nav.Link href="/service" className='service'>Service</Nav.Link>
+        <Nav.Link href="service" className='service'>Service</Nav.Link>
       </Nav.Item>
       <Nav.Item>
         <Nav.Link eventKey="Customer Call"  className='Customer'>Customer Call</Nav.Link>
