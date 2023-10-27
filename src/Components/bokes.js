@@ -40,7 +40,7 @@ function Bike() {
       <Card style={{ width: '13rem' }} className='div'>
         <Card.Img src={require('../image/bike2.jpeg')} className='images ktm' />
         <Card.Body>
-          <Card.Title><b>Duke 390</b></Card.Title>
+          <Card.Title><b>DUKE 390</b></Card.Title>
           <Card.Text>The Duke 390 is powered by a liquid-cooled, single-cylinder, four-stroke engine with a displacement of 373.2cc. It's equipped with fuel injection technology and produces a substantial amount of power for its category.</Card.Text>
           <Button className='buttonfirst'><b>EXPOLRE NOW </b></Button>
         </Card.Body>
@@ -49,7 +49,7 @@ function Bike() {
       <Card style={{ width: '13rem' }} className='div'>
         <Card.Img src={require('../image/bike3.jpeg')} className='images ' />
         <Card.Body>
-          <Card.Title><b className=''>Ktm 390</b></Card.Title>
+          <Card.Title><b className=''>KTM 390</b></Card.Title>
           <Card.Text>The KTM 390 Duke is known for its impressive performance within the naked sportbike segment. It offers strong acceleration and a top speed that exceeds 100 mph, making it a spirited and fun-to-ride bike.</Card.Text>
           <Button className='button'><b>EXPOLRE NOW</b></Button>
         </Card.Body>
@@ -58,7 +58,7 @@ function Bike() {
       <Card style={{ width: '13rem' }} className='div'>
         <Card.Img src={require('../image/bike4.jpeg')} className='images' />
         <Card.Body>
-          <Card.Title><b>Ktm 125</b></Card.Title>
+          <Card.Title><b>KTM 125</b></Card.Title>
           <Card.Text> While the 125cc engine is relatively small, the KTM 125 Duke offers lively and enjoyable performance for riders looking for a lightweight and agile motorcycle. It is suitable for urban and city riding.</Card.Text>
           <Button className='buttonlast'><b>EXPOLRE NOW </b></Button>
         </Card.Body>
