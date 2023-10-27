@@ -62,22 +62,22 @@ background-color: #353b48;
 .button{
     background-color: #ff793f;
     border: none;
-    
+    margin-top: 6px;
 }
 .buttonfirst{
     background-color: #ff793f;
     border: none;
-margin-top: 41px;
+margin-top: 45px;
 }
 .buttonthird{
     background-color: #ff793f;
     border: none;
-    margin-top: 25px;
+    margin-top: 30px;
 }
 .buttonlast{
     background-color: #ff793f;
     border: none;
-    margin-top: 49px;
+    margin-top: 54px;
 }
 .fround{
     opacity: 50%;
